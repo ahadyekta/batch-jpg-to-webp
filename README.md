@@ -1,6 +1,6 @@
-# batch-jpg-to-webp
+# batch jpg to webp in ubuntu linux
 Batch convert JPG to WebP in Ubuntu Command line
-
+To compress images for showing on the web faster you can use webp image format.
 
 First install the webp converter by this
 
